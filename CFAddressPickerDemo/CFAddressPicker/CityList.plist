@@ -6925,7 +6925,7 @@
 					</dict>
 					<dict>
 						<key>name</key>
-						<string>泰宁县</string>
+						<string>大田县</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -7003,7 +7003,7 @@
 					</dict>
 					<dict>
 						<key>name</key>
-						<string>洛江县</string>
+						<string>洛江区</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -8469,6 +8469,10 @@
 					</dict>
 					<dict>
 						<key>name</key>
+						<string>潮南区</string>
+					</dict>
+					<dict>
+						<key>name</key>
 						<string>濠江区</string>
 					</dict>
 					<dict>
@@ -9346,6 +9350,10 @@
 					<dict>
 						<key>name</key>
 						<string>藤县</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>蒙山县</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -10353,6 +10361,10 @@
 					<dict>
 						<key>name</key>
 						<string>龙泉驿区</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>新都区</string>
 					</dict>
 					<dict>
 						<key>name</key>
